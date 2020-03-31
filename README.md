@@ -23,7 +23,7 @@ This app features all the latest tools and practices in mobile development!
 ## Getting started
 
 1. clone this repo using `git clone https://github.com/s1lasjee/week-omnistack11.git`
-2. Move yourself to the appropriate directory: `cd projectOmi`
+2. Move yourself to the appropriate directory: `cd week-omnistack11`
 3. Run `yarn` to install dependencies
 
 ## Getting started with backend server
