@@ -11,12 +11,12 @@
 
 ## Features
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
+This app features all the latest tools and practices in client, server and mobile development!
 
 - <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="23" align="center"/> **React Js** — A JavaScript library for building user interfaces
 - <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="23" align="center"/> **React Native** — A lib that provides a way to create native apps for Android and iOS
 
-- <img src="https://image.flaticon.com/icons/svg/919/919825.svg" align="center" width="23"/> **Node Js** — A web framework for Node Js
+- <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" align="center" width="23"/> **Node Js** — A web framework for Node Js
 
 - <img src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo.png" width="35" align="center"/> **SQLite** — A C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine
 
