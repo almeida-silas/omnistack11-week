@@ -22,8 +22,8 @@ This app features all the latest tools and practices in client, server and mobil
 
 ## Getting started
 
-1. clone this repo using `git clone https://github.com/s1lasjee/week-omnistack11.git`
-2. Move yourself to the appropriate directory: `cd week-omnistack11`
+1. clone this repo using `git clone https://github.com/s1lasjee/omnistack11-week.git`
+2. Move yourself to the appropriate directory: `cd omnistack11-week`
 3. Run `yarn` to install dependencies
 
 ## Getting started with backend server
